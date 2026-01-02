@@ -22,7 +22,7 @@ mv ~/.cache/nvim{,.bak}
 Clone this repository into your Neovim config directory:
 
 ```bash
-git clone https://github.com/yourname/lazyvim-config ~/.config/nvim
+git clone https://github.com/fuitt/neovim-config ~/.config/nvim
 ```
 
 Remove the `.git` folder:
