@@ -9,6 +9,7 @@ TODO
 ## Installation
 
 Make a buckup of your existing Neovim configuration:
+
 ```bash
 # required
 mv ~/.config/nvim{,.bak}
@@ -26,11 +27,13 @@ git clone https://github.com/yourname/lazyvim-config ~/.config/nvim
 ```
 
 Remove the `.git` folder:
+
 ```bash
 rm -rf ~/.config/nvim/.git
 ```
 
 Then start Neovim:
+
 ```bash
 nvim
 ```
