@@ -63,10 +63,10 @@ This configuration introduces several custom keybindings that differ from [the d
 | gS | Flash Treesitter | n, o, x |
 | gr | Flash Remote | o |
 | gR | Flash Treesitter Search | o, x |
-| gco | Git Conflict Choose Ours | n |
-| gct | Git Conflict Choose Theirs | n |
-| gcb | Git Conflict Choose Both | n |
-| gc0 | Git Conflict Choose None | n |
+| \<leader\>gco | Git Conflict Choose Ours | n |
+| \<leader\>gct | Git Conflict Choose Theirs | n |
+| \<leader\>gcb | Git Conflict Choose Both | n |
+| \<leader\>gc0 | Git Conflict Choose None | n |
 | ]x | Git Conflict Next Conflict | n |
 | [x | Git Conflict Prev Conflict | n |
 | \<leader\>ft | Toggle Terminal | n, t |
