@@ -2,10 +2,10 @@ return {
   "folke/flash.nvim",
   keys = {
     -- Disable LazyVim default keymaps
-    { "s", false },
-    { "S", false },
-    { "r", false },
-    { "R", false },
+    { "s", mode = { "n", "x", "o" }, false },
+    { "S", mode = { "n", "x", "o" }, false },
+    { "r", mode = { "o" }, false },
+    { "R", mode = { "x", "o" }, false },
 
     -- Basic flash jump
     {
